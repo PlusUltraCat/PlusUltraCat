@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Whiskers of One For All
 
-### The kind of **CAT.** every team needs
+### The kind of **C.A.T** every team needs
 
 **C – Curiosity**
 
