@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=680&height=55&lines=Hi%2C+I'm+Whiskers+of+One+For+All+%F0%9F%90%BE;Networking+%C2%B7+Cybersecurity+%C2%B7+Scripting;Always+learning.+Always+evolving.+Plus+Ultra!" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=79C0FF&center=true&vCenter=true&width=680&height=55&lines=Hi%2C+I'm+Whiskers+of+One+For+All+%F0%9F%90%BE;Networking+%C2%B7+Cybersecurity+%C2%B7+Scripting;Always+learning.+Always+evolving.+Plus+Ultra!" alt="typing banner" />
 
-<img src="https://komarev.com/ghpvc/?username=PlusUltraCat&label=Profile%20views&color=39d353&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=PlusUltraCat&label=Profile%20views&color=79c0ff&style=flat" alt="profile views" />
 
 </div>
 
@@ -69,16 +69,16 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PlusUltraCat&show_icons=true&count_private=true&hide_border=true&title_color=39D353&icon_color=39D353&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlusUltraCat&layout=compact&hide_border=true&langs_count=8&title_color=39D353&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PlusUltraCat&show_icons=true&count_private=true&hide_border=true&title_color=79C0FF&icon_color=79C0FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlusUltraCat&layout=compact&hide_border=true&langs_count=8&title_color=79C0FF&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=PlusUltraCat&hide_border=true&background=0d1117&stroke=30363d&ring=39D353&fire=39D353&currStreakNum=c9d1d9&currStreakLabel=39D353&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=PlusUltraCat&hide_border=true&background=0d1117&stroke=30363d&ring=79C0FF&fire=79C0FF&currStreakNum=c9d1d9&currStreakLabel=79C0FF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PlusUltraCat&theme=matrix&no-frame=true&column=7&margin-w=4&margin-h=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PlusUltraCat&theme=onedark&no-frame=true&column=7&margin-w=4&margin-h=4" alt="Trophies" />
 </div>
 
 ---
