@@ -78,7 +78,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PlusUltraCat&theme=onedark&no-frame=true&column=7&margin-w=4&margin-h=4" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PlusUltraCat&bg_color=0d1117&color=79C0FF&line=79C0FF&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
 </div>
 
 ---
