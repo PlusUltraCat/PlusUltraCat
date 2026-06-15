@@ -66,23 +66,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PlusUltraCat&show_icons=true&count_private=true&hide_border=true&title_color=79C0FF&icon_color=79C0FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlusUltraCat&layout=compact&hide_border=true&langs_count=8&title_color=79C0FF&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=PlusUltraCat&hide_border=true&background=0d1117&stroke=30363d&ring=79C0FF&fire=79C0FF&currStreakNum=c9d1d9&currStreakLabel=79C0FF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PlusUltraCat&bg_color=0d1117&color=79C0FF&line=79C0FF&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
-</div>
-
----
-
 <div align="center">
 
 <em>"Go beyond. Plus Ultra!" 🦸</em>
